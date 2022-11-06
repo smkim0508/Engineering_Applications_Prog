@@ -1,6 +1,6 @@
 from matplotlib import pyplot as plt
 import math
-plt.gca().set_aspect('equal', adjustable='box')
+plt.gca().set_aspect('equal', adjustable='box') #adjustable figure size
 r=1
 
 for a in range(0, 720, 10):

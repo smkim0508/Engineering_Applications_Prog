@@ -1,3 +1,4 @@
+#Capacitor Charging
 from matplotlib import pyplot as plt
 
 plt.figure(figsize=(5, 2.5))   # fix for the bug in repl.it
